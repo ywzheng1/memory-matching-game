@@ -1,6 +1,10 @@
 ### Matching Memory game!
 
-How to play
+To view demo online, please visit the link below:  
+https://ywzheng1.github.io/memory-matching-game/
+
+
+How to play on local:   
 - clone this repo or download and extract via zip
 - open the folder
 - Open index.html file with any browser.
